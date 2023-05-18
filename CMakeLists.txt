@@ -23,6 +23,7 @@ if (BUILD_BINDINGS OR SKBUILD)
 endif()
 
 if (BUILD_TESTS)
+    enable_testing()
     add_subdirectory(tests)
 endif()
 
