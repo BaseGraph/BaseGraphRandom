@@ -3,7 +3,7 @@
 
 #include <random>
 
-#include "BaseGraph/undirectedgraph.h"
+#include "BaseGraph/undirected_graph.hpp"
 #include "rng.h"
 
 
